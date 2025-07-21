@@ -1,0 +1,24 @@
+/* EITA GOOGLE EE JABO JEI FONT LAGBE SHEITA SELECT KORBO - EMBADED KORBO COPY KORBO -- SHEI AGER PROCESS..! */
+
+@import url('https://fonts.googleapis.com/css2?family=Purple+Purse&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+
+
+
+/* EITA TOW SHOB SHOMOY EE LIKHBO */
+
+@import "tailwindcss"; 
+
+/* EITA HOCCHE GOOGLE ER SHEI FONT ADD KORAR JONNO TAR FAMILY LIKHCHI */
+
+@layer utilities{
+    .font-purple{
+        font-family: "Purple Purse", serif;
+    }
+    .font-eb{
+        font-family: "Cormorant Garamond", serif;
+    }
+}
+
+/* ERPOR SUDHU JEI JEI JAYGAY USE KORBO SHEKHANE  */
